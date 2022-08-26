@@ -1,0 +1,806 @@
+# Query: 72
+# ContextLines: 1
+
+244 results - 21 files
+
+404.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="images/73-logo.jpg">
+   13    <!-- css -->
+
+   26    <!-- title -->
+   27:   <title>Not found | 工学院大学 第73回新宿祭</title>
+   28  </head>
+
+   37        <div id="header-left">
+   38:         <h1><strong><a href="#"><img src="images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   39        </div>
+
+  123          <div class="footer-info-left">
+  124:           <img src="images/73ndrogo_white.png" alt="">
+  125            <ul class="items">
+
+  129              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  130:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  131            </ul>
+
+  134            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  135:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  136:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  137          </div>
+
+  143      <div id="footer-bottom">
+  144:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  145      </div>
+
+index.html:
+   10    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   11:   <meta name="description" content="工学院大学新宿キャンパスの学園祭『新宿祭』!!第73回のテーマは「ウエスタン」ってかウエスタンしか勝たん!!2021年11月19～21日(金～日)開催!!詳細はコチラ!!">
+   12    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   13    <!-- icon -->
+   14:   <link rel="icon" href="images/73-logo.jpg">
+   15    <!-- css -->
+
+   57        <div id="header-left">
+   58:         <h1><strong><a href="#"><img src="images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   59        </div>
+
+  173            <li>
+  174:             <a href="https://twitter.com/jukusai_73">
+  175                <img src="images/twitter.jpg" alt="">
+  176              </a>
+  177:             <a class="sns-text" href="https://twitter.com/jukusai_73">
+  178                <strong>Twitter</strong>
+
+  181            <li>
+  182:             <a href="https://www.instagram.com/73nd_jukusai/">
+  183                <img src="images/instagram.jpg" alt="">
+  184              </a>
+  185:             <a class="sns-text" href="https://www.instagram.com/73nd_jukusai/">
+  186                <strong>Instagram</strong>
+
+  190              <a href="https://docs.google.com/forms/d/1D3wyqk7WIxsaBli8Iw8xoVQbkfr70qDmuLQFO-STx1Y/edit">
+  191:               <img src="images/73-logo.jpg" alt="">
+  192              </a>
+
+  217          <div class="tag topic-tag">トピック</div>
+  218:         <p class="">第73回新宿祭ステージ企画タイムスケジュールを公開！</p>
+  219        </a></li>
+
+  447      </div>
+  448:     <img class="end-image" src="images/73-contents-background.png" alt="">
+  449    </main>
+
+  469          <div class="footer-info-left">
+  470:           <img src="images/73ndrogo_white.png" alt="">
+  471            <ul class="items">
+
+  475              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  476:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  477            </ul>
+
+  480            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  481:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  482:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  483          </div>
+
+  489      <div id="footer-bottom">
+  490:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  491      </div>
+
+layout/access.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>アクセス | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   40        <div id="header-left">
+   41:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   42        </div>
+
+  125                <p>
+  126:                 名称：工学院大学 第73回新宿祭<br>
+  127                  開催日：2021年11月19日(金)-11月21日(日) 12月5日(日)<br>
+
+  134                  E-mail：wws5011@ns.kogakuin.ac.jp<br>
+  135:                 G-mail：shinjukusai73@gmail.com
+  136                </p>
+
+  159          <div class="footer-info-left">
+  160:           <img src="../images/73ndrogo_white.png" alt="">
+  161            <ul class="items">
+
+  165              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  166:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  167            </ul>
+
+  170            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  171:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  173:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  173          </div>
+
+  179      <div id="footer-bottom">
+  180:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  181      </div>
+
+layout/artist.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   27    <!-- title -->
+   28:   <title>アーティストライブ | 工学院大学 第73回新宿祭</title>
+   29  </head>
+
+   39      <div id="header-left">
+   40:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   41      </div>
+
+  149                来場者の皆様も徹底した感染症対策へのご協力をよろしくお願いいたします。<br><br>
+  150:               <a href="corona-notes.html">▶第73回新宿祭の新型コロナウイルス感染症対策の取り組みはコチラ</a><br><br>
+  151  
+
+  253          <div class="footer-info-left">
+  254:           <img src="../images/73ndrogo_white.png" alt="">
+  255            <ul class="items">
+
+  259              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  260:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  261            </ul>
+
+  264            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  265:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  266:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  267          </div>
+
+  273      <div id="footer-bottom">
+  274:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  275      </div>
+
+layout/character.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   27    <!-- title -->
+   28:   <title>キャラクター | 工学院大学 第73回新宿祭</title>
+   29  </head>
+
+   39      <div id="header-left">
+   40:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   41      </div>
+
+  145          <div class="footer-info-left">
+  146:           <img src="../images/73ndrogo_white.png" alt="">
+  147            <ul class="items">
+
+  151              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  152:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  153            </ul>
+
+  156            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  157:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  158:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  159          </div>
+
+  165      <div id="footer-bottom">
+  166:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  167      </div>
+
+layout/classroom-exhibition.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>展示企画 | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   40      <div id="header-left">
+   41:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   42      </div>
+
+  356          <div class="footer-info-left">
+  357:           <img src="../images/73ndrogo_white.png" alt="">
+  358            <ul class="items">
+
+  362              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  363:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  364            </ul>
+
+  367            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  368:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  369:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  370          </div>
+
+  376      <div id="footer-bottom">
+  377:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  378      </div>
+
+layout/comedy-live.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>お笑いライブ | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   40      <div id="header-left">
+   41:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   42      </div>
+
+  204                来場者の皆様も徹底した感染症対策へのご協力をよろしくお願いいたします。<br><br>
+  205:               <a href="corona-notes.html">▶第73回新宿祭の新型コロナウイルス感染症対策の取り組みはコチラ</a><br><br>
+  206                〇規制入場について<br>
+
+  305          <div class="footer-info-left">
+  306:           <img src="../images/73ndrogo_white.png" alt="">
+  307            <ul class="items">
+
+  311              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  312:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  313            </ul>
+
+  316            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  317:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  318:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  319          </div>
+
+  325      <div id="footer-bottom">
+  326:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  327      </div>
+
+layout/coming-soon.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="images/73-logo.jpg">
+   13    <!-- css -->
+
+   26    <!-- title -->
+   27:   <title>Coming Soon... | 工学院大学 第73回新宿祭</title>
+   28  </head>
+
+   38      <div id="header-left">
+   39:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   40      </div>
+
+   98              情報解禁前であるため、このページを閲覧することはできません。<br>
+   99:             最新の情報をいち早く入手するために第73回新宿祭公式SNSのフォローをおすすめいたします。<br>
+  100              <br>
+  101:             <a href="sns.html">▶第73回新宿祭公式SNSはコチラ</a><br>
+  102              <br>
+
+  134          <div class="footer-info-left">
+  135:           <img src="../images/73ndrogo_white.png" alt="">
+  136            <ul class="items">
+
+  140              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  141:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  142            </ul>
+
+  145            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  146:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  147:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  148          </div>
+
+  154      <div id="footer-bottom">
+  155:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  156      </div>
+
+layout/corona-notes.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   26    <!-- title -->
+   27:   <title>感染症対策 | 工学院大学 第73回新宿祭</title>
+   28  </head>
+
+   38      <div id="header-left">
+   39:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   40      </div>
+
+  184                E-mail: wws5011@ns.kogakuin.ac.jp<br>
+  185:               G-mail: shinjukusai73@gmail.com
+  186              </p>
+
+  208          <div class="footer-info-left">
+  209:           <img src="../images/73ndrogo_white.png" alt="">
+  210            <ul class="items">
+
+  214              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  215:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  216            </ul>
+
+  219            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  220:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  221:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  222          </div>
+
+  228      <div id="footer-bottom">
+  229:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  230      </div>
+
+layout/festival.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>学園祭について | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   40      <div id="header-left">
+   41:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   42      </div>
+
+  100              <span class="emphasis">
+  101:               第73回新宿祭は、
+  102                <br>
+
+  130            <div class="sub-set-item">
+  131:             <h3>第73回新宿祭で開催が見送られたコンテンツ</h3>
+  132              <p>
+
+  149                <p>
+  150:                 名称：工学院大学 第73回新宿祭<br>
+  151                  開催日：2021年11月19日(金)-11月21日(日) 12月5日(日)<br>
+
+  158                  E-mail：wws5011@ns.kogakuin.ac.jp<br>
+  159:                 G-mail：shinjukusai73@gmail.com
+  160                </p>
+
+  203            <div class="footer-info-left">
+  204:             <img src="../images/73ndrogo_white.png" alt="">
+  205              <ul class="items">
+
+  209                <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  210:               <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  211              </ul>
+
+  214              <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  215:             <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  216:             <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  217            </div>
+
+  223        <div id="footer-bottom">
+  224:         <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  225        </div>
+
+layout/guest.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>ゲスト企画 | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   40      <div id="header-left">
+   41:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   42      </div>
+
+  178          <div class="footer-info-left">
+  179:           <img src="../images/73ndrogo_white.png" alt="">
+  180            <ul class="items">
+
+  184              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  185:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  186            </ul>
+
+  189            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  190:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  191:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  192          </div>
+
+  198      <div id="footer-bottom">
+  199:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  200      </div>
+
+layout/infomation.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   26    <!-- title -->
+   27:   <title>総合案内 | 工学院大学 第73回新宿祭</title>
+   28  </head>
+
+   38        <div id="header-left">
+   39:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   40        </div>
+
+   95          <div class="sub-set">
+   96:           <h2 class="sub-ttl">第73回新宿祭開催について</h2>
+   97            <p>
+   98:             第73回新宿祭は、<br>
+   99              11月19日(金) 、11月20日(土) 、11月21日(日) 、12月5日(日) に開催いたします！<br>
+  100              ※12月5日はアーティストライブの配信のみ。<br><br>
+  101:             <a href="festival.html">▶第73回新宿祭開催形態について</a><br>
+  102              <a href="stage-event.html">▶ステージタイムスケジュールはこちらから！</a><br>
+
+  119              来場者の皆様も徹底した感染症対策へのご協力をよろしくお願いいたします。<br><br>
+  120:             <a href="corona-notes.html">▶第73回新宿祭の新型コロナウイルス感染症対策の取り組みはコチラ</a>
+  121            </p>
+
+  187                E-mail: wws5011@ns.kogakuin.ac.jp<br>
+  188:               G-mail: shinjukusai73@gmail.com
+  189              </p>
+
+  211          <div class="footer-info-left">
+  212:           <img src="../images/73ndrogo_white.png" alt="">
+  213            <ul class="items">
+
+  217              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  218:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  219            </ul>
+
+  222            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  223:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  224:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  225          </div>
+
+  231      <div id="footer-bottom">
+  232:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  233      </div>
+
+layout/posukon.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   30    <!-- title -->
+   31:   <title>メインポスターデザインコンテスト | 工学院大学 第73回新宿祭</title>
+   32  </head>
+
+   41        <div id="header-left">
+   42:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   43        </div>
+
+  192          <div class="footer-info-left">
+  193:           <img src="../images/73ndrogo_white.png" alt="">
+  194            <ul class="items">
+
+  198              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  199:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  200            </ul>
+
+  203            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  204:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  205:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  206          </div>
+
+  212      <div id="footer-bottom">
+  213:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  214      </div>
+
+layout/ramen.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   29    <!-- title -->
+   30:   <title>学園祭オリジナルラーメン開発プロジェクト | 工学院大学 第73回新宿祭</title>
+   31  </head>
+
+   40        <div id="header-left">
+   41:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   42        </div>
+
+  131              <p>
+  132:               <a href="https://youtu.be/-qcgzWehDNk">【第73回新宿祭】[先行公開] 学園祭オリジナルラーメン開発プロジェクト<i class="fas fa-external-link-alt"></i></a><br><br>
+  133                本日からオリジナル動画第1弾が先行公開！<br>
+
+  141              <div class="access-box">
+  142:               <iframe class="access-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.726924826286!2d139.3305697155544!3d35.659099038792256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60191f7338acbbfb%3A0xe1a6042e9fd5be2c!2z6baP44Gz44GC44KTU29iYeOBv-OChOOBv-OChA!5e0!3m2!1sja!2sjp!4v1636951232594!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  143                <div class="access-text">
+
+  183          <div class="footer-info-left">
+  184:           <img src="../images/73ndrogo_white.png" alt="">
+  185            <ul class="items">
+
+  189              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  190:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  191            </ul>
+
+  194            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  195:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  196:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  197          </div>
+
+  203      <div id="footer-bottom">
+  204:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  205      </div>
+
+layout/saturday-talk.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>サタデートーク | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   39        <div id="header-left">
+   40:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   41        </div>
+
+  155          <div class="footer-info-left">
+  156:           <img src="../images/73ndrogo_white.png" alt="">
+  157            <ul class="items">
+
+  161              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  162:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  163            </ul>
+
+  166            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  167:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  168:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  169          </div>
+
+  175      <div id="footer-bottom">
+  176:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  177      </div>
+
+layout/seiyu.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>声優トークショー | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   39        <div id="header-left">
+   40:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   41        </div>
+
+  159                来場者の皆様も徹底した感染症対策へのご協力をよろしくお願いいたします。<br><br>
+  160:               <a href="corona-notes.html">▶第73回新宿祭の新型コロナウイルス感染症対策の取り組みはコチラ</a><br><br>
+  161  
+
+  263          <div class="footer-info-left">
+  264:           <img src="../images/73ndrogo_white.png" alt="">
+  265            <ul class="items">
+
+  269              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  270:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  271            </ul>
+
+  274            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  275:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  276:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  277          </div>
+
+  283      <div id="footer-bottom">
+  284:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  285      </div>
+
+layout/sns.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   27    <!-- title -->
+   28:   <title>公式SNS | 工学院大学 第73回新宿祭</title>
+   29  </head>
+
+   38        <div id="header-left">
+   39:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   40        </div>
+
+  104              <h2 class="sub-ttl">Twitter</h2>
+  105:             <a class="twitter-timeline" data-height="750" data-theme="light" href="https://twitter.com/jukusai_73?ref_src=twsrc%5Etfw">Tweets by jukusai_73</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  106            </div>
+
+  108              <h2 class="sub-ttl">Instagram</h2>
+  109: ⟪ 2126 characters skipped ⟫6.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.03⟪ 3085 characters skipped ⟫g_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">第73回新宿祭 (工学院大学 学園祭実行委員会)(@73nd_jukusai)がシェアした投稿</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+  110            </div>
+
+  131          <div class="footer-info-left">
+  132:           <img src="../images/73ndrogo_white.png" alt="">
+  133            <ul class="items">
+
+  137              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  138:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  139            </ul>
+
+  142            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  143:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  144:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  145          </div>
+
+  151      <div id="footer-bottom">
+  152:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  153      </div>
+
+layout/stage-event-in.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   30    <!-- title -->
+   31:   <title>ステージ企画 | 工学院大学 第73回新宿祭</title>
+   32  </head>
+
+   41        <div id="header-left">
+   42:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   43        </div>
+
+  239                  レッドカーペットでお馴染みの５GAPの２組が工学院大学に！！<br>
+  240:                 第73回新宿祭を大いに盛り上げていただきましょう！！<br>
+  241                  是非ご覧ください！
+
+  314          <div class="footer-info-left">
+  315:           <img src="../images/73ndrogo_white.png" alt="">
+  316            <ul class="items">
+
+  320              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  321:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  322            </ul>
+
+  325            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  326:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  327:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  328          </div>
+
+  334      <div id="footer-bottom">
+  335:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  336      </div>
+
+layout/stage-event-out.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   30    <!-- title -->
+   31:   <title>ステージ企画 | 工学院大学 第73回新宿祭</title>
+   32  </head>
+
+   41        <div id="header-left">
+   42:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   43        </div>
+
+  216                  レッドカーペットでお馴染みの５GAPの２組が工学院大学に！！<br>
+  217:                 第73回新宿祭を大いに盛り上げていただきましょう！！<br>
+  218                  是非ご覧ください！
+
+  291          <div class="footer-info-left">
+  292:           <img src="../images/73ndrogo_white.png" alt="">
+  293            <ul class="items">
+
+  297              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  298:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  299            </ul>
+
+  302            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  303:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  304:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  305          </div>
+
+  311      <div id="footer-bottom">
+  312:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  313      </div>
+
+layout/stage-event.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   31    <!-- title -->
+   32:   <title>ステージ企画 | 工学院大学 第73回新宿祭</title>
+   33  </head>
+
+   42        <div id="header-left">
+   43:         <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   44        </div>
+
+  143          <div class="footer-info-left">
+  144:           <img src="../images/73ndrogo_white.png" alt="">
+  145            <ul class="items">
+
+  149              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  150:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  151            </ul>
+
+  154            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  155:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  156:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  157          </div>
+
+  163      <div id="footer-bottom">
+  164:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  165      </div>
+
+layout/student-project-exhibition.html:
+    8    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    9:   <meta name="description" content="工学院大学第73回新宿祭公式ホームベージです!!">
+   10    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   11    <!-- icon -->
+   12:   <link rel="icon" href="../images/73-logo.jpg">
+   13    <!-- css -->
+
+   28    <!-- title -->
+   29:   <title>学生プロジェクト展示 | 工学院大学 第73回新宿祭</title>
+   30  </head>
+
+   40      <div id="header-left">
+   41:       <h1><strong><a href="../index.html"><img src="../images/73-logo.jpg">第73回新宿祭</a></strong></h1>
+   42      </div>
+
+  327          <div class="footer-info-left">
+  328:           <img src="../images/73ndrogo_white.png" alt="">
+  329            <ul class="items">
+
+  333              <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+  334:             <li class="item">G-mail:<a href="">shinjukusai73@gmail.com</a></li>
+  335            </ul>
+
+  338            <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+  339:           <a class="twitter" href="https://twitter.com/jukusai_73"></a>
+  340:           <a class="instagram" href="https://www.instagram.com/73nd_jukusai/"></a>
+  341          </div>
+
+  347      <div id="footer-bottom">
+  348:       <p>©Kogakuin University 73nd Shinjuku Festival.</p>
+  349      </div>

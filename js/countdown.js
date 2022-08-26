@@ -1,6 +1,6 @@
 function countdown(){
   const now=new Date();//今の時間
-  const tomorrow=new Date( 2021, 10, 19, 10, 00);//明日の0:00
+  const tomorrow=new Date( 2022, 10, 18, 10, 00);//明日の0:00
   const differ=tomorrow.getTime()-now.getTime();//あと何秒か計算
 
   const sec1=Math.floor(Math.floor(differ/1000)%60/10);//ミリ秒を秒に直してから
@@ -11,7 +11,6 @@ function countdown(){
   const hour2=Math.floor(differ/1000/60/60)%24%10;
   const date1=Math.floor(differ/1000/60/60/24/10);
   const date2=Math.floor(differ/1000/60/60/24)%10;
-
 
   document.getElementById("date1").textContent=String(date1).padStart(1,"0"); //一桁になった時0がつくように
   document.getElementById("date2").textContent=String(date2).padStart(1,"0"); //一桁になった時0がつくように

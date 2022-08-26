@@ -2,7 +2,7 @@
   justify-content: left;
 }
 
-#guest .overview img, #talk-show .overview img,#comedy-live .overview img, #gakupro .overview img , #saturdayTalk .overview img, #classroomExhibition .overview img, #ramen .overview img, #classroomExhibition .overview img {
+#guest .overview img, #talk-show .overview img,#comedy-live .overview img, #gakupro .overview img , #saturdayTalk .overview img, #classroomExhibition .overview img, #poskon .overview img, #classroomExhibition .overview img {
   margin-top: 0;
   width: 40rem;
   object-fit: cover;
@@ -10,7 +10,7 @@
   background: white;
 }
 
-#guest a, #talk-show a,#comedy-live a, #gakupro a, #ramen a {
+#guest a, #talk-show a,#comedy-live a, #gakupro a, #poskon a {
   text-decoration: none;
 }
 
@@ -19,7 +19,7 @@
   margin: 0 auto;
 }
 
-.ramen-mov {
+.poskon-mov {
   width: 55rem;
   max-width: 100%;
   height: 31rem;

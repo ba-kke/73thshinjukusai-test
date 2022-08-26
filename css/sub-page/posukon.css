@@ -1,0 +1,16 @@
+/* posukon */
+.poster-excellence {
+  min-width: 330px;
+  width: 45%;
+  padding: 2rem 1rem 0;
+}
+
+.poster-other {
+  min-width: 150px;
+  width: 20%;
+  padding: 2rem 1rem 0;
+}
+
+.posukon2{
+  padding-bottom: 3.6rem;
+}
