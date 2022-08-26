@@ -1,0 +1,57 @@
+.return-page-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+#header {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.return-page-top a {
+  /* display: none; */
+  position: fixed;
+  z-index: 99;
+  bottom: 12rem;
+  right: 2rem;
+  width: 12rem;
+  height: 9rem;
+  background-image: url(../images/top-go.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.sns a {
+  color: black;
+}
+
+.sns a:hover {
+  text-decoration: none;
+  color: #666;
+}
+
+/* add */
+.add {
+  display: block;
+  /* animation: FadeIn 2s infinite; */
+}
+
+/* @keyframes FadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+} */
+
+.add-return {
+  bottom: 10rem;
+}

@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <!-- Made in sakakibaland -->
+  <!-- Designed by Yamaguchi Koki -->
+  <!-- meta -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="工学院大学新宿キャンパスの学園祭『新宿祭』!!第72回のテーマは「ウエスタン」ってかウエスタンしか勝たん!!2021年11月19～21日(金～日)開催!!詳細はコチラ!!">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- icon -->
+  <link rel="icon" href="images/72-logo.jpg">
+  <!-- css -->
+  <link rel="stylesheet" href="css/destyle.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/loading.css">
+  <link rel="stylesheet" href="css/return-page-top.css">
+  <link rel="stylesheet" href="css/header.css">
+  <link rel="stylesheet" href="css/top-view.css">
+  <link rel="stylesheet" href="css/second-view.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/sns.css">
+  <link rel="stylesheet" href="css/news.css">
+  <link rel="stylesheet" href="css/contents.css">
+  <link rel="stylesheet" href="css/sub-page/access.css">
+  <link rel="stylesheet" href="css/footer-top.css">
+  <link rel="stylesheet" href="css/footer-bottom.css">
+  <!-- fontwesome -->
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <!-- swiper -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.min.css">
+  <!-- font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap" rel="stylesheet">
+  <!--title-->
+  <title>工学院大学 第73回新宿祭</title>
+</head>
+
+<body id="body">
+  <!-- loading -->
+  <div id="loading">
+    <div id="loadingBg"></div>
+    <img id="loadingImage" src="images/loading.gif" alt="">
+  </div>
+
+  <!-- return-page-top -->
+  <div id="returnPageTop" class="return-page-top">
+    <a id="returnPageTopLink" href="#"></a>
+  </div>
+
+  <!-- header -->
+  <header id="header">
+    <div class="container">
+      <div id="header-left">
+        <h1><strong><a href="#"><img src="images/72-logo.jpg">第73回新宿祭</a></strong></h1>
+      </div>
+      <nav id="header-right">
+        <ul class="items">
+          <li class="item"><a href="#">Home</a></li>
+          <li class="item"><a href="layout/infomation.html">総合案内</a></li>
+          <li id="dropdownWrapper" class="item dropdown-wrapper">
+            <button id="dropdownBtn" href="#">メニュー<i class="fas fa-chevron-down"></i></button>
+            <ul id="dropdown">
+              <li><a href="index.html#contents">新宿祭コンテンツ一覧</a></li>
+              <li><a href="layout/stage-event.html">ステージ企画</a></li>
+              <li><a href="layout/guest.html">ゲスト企画</a></li>
+              <li><a href="layout/classroom-exhibition.html">展示企画</a></li>
+              <li><a href="layout/access.html">アクセス</a></li>
+              <li><a href="layout/festival.html">学園祭について</a></li>
+              <li><a href="layout/corona-notes.html">新型コロナウイルス感染症対策</a></li>
+            </ul>
+          </li>
+          <li class="item"><a href="layout/sns.html">公式SNS</a></li>
+          <li class="item"><a href="https://docs.google.com/forms/d/1D3wyqk7WIxsaBli8Iw8xoVQbkfr70qDmuLQFO-STx1Y/edit">お問い合わせ</a></li>
+          <li id="acMenu-wrapper" class="acMenu-wrapper item">
+            <button id="acMenuBtn" href="#"><i id="faBars" class="fas fa-bars"></i></button>
+            <!-- <button id="acMenuBtn" href="#"><i id="faTimes" class="fas fa-times"></i></button> -->
+            <ul id="acMenu">
+              <li><a href="#">Home</a></li>
+              <li><a href="layout/infomation.html">総合案内</a></li>
+              <li><a href="layout/sns.html">公式SNS</a></li>
+              <li><a href="index.html#contents">新宿祭コンテンツ一覧</a></li>
+              <li><a href="layout/stage-event.html">ステージ企画</a></li>
+              <li><a href="layout/guest.html">ゲスト企画</a></li>
+              <li><a href="layout/classroom-exhibition.html">展示企画</a></li>
+              <li><a href="layout/access.html">アクセス</a></li>
+              <li><a href="layout/festival.html">学園祭について</a></li>
+              <li><a href="layout/corona-notes.html">新型コロナウイルス感染症対策</a></li>
+              <li><a href="https://docs.google.com/forms/d/1D3wyqk7WIxsaBli8Iw8xoVQbkfr70qDmuLQFO-STx1Y/edit">お問い合わせ</a></li>
+              <br>
+              <li><h3>外部リンク</h3></li>
+              <li><a class="outlink" href="https://www.kogakuin.ac.jp/">▶工学院大学</a></li>
+              <li><a class="outlink" href="https://www.ns.kogakuin.ac.jp/~wws5024/">▶第59回八王子祭</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- top-view -->
+  <div id="topView">
+    <div class="top-container">
+      <video autoplay loop playinline muted poster="images/countdown.jpg">
+        <source src="video/countdown.mp4" type="video/mp4">
+        <img src="images/countdown.jpg" alt="">
+      </video>
+      <div class="countdown">
+        <h2 class="ttl"><strong>工学院大学</strong></h2>
+        <h3 class="sub-ttl"><strong>第73回新宿祭<span class="made">まで</span></strong></h3>
+        <ul class="date-set">
+          <li id="date1" class="date count-blue">0</li>
+          <li id="date2" class="date count-yellow">0</li>
+          <li class="date-unit">日</li>
+        </ul>
+        <ul class="time-set">
+          <li id="hour1" class="date"><strong></strong></li>
+          <li id="hour2" class="date">0</li>
+          <!-- <li class="date">0</li> -->
+          <li class="date-unit">時間</li>
+          <li id="min1" class="date">0</li>
+          <li id="min2" class="date">0</li>
+          <!-- <li class="date">0</li> -->
+          <li class="date-unit">分</li>
+          <li id="sec1" class="date">0</li>
+          <li id="sec2" class="date">0</li>
+          <!-- <li class="date">0</li> -->
+          <li class="date-unit">秒</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- second-view -->
+  <!-- <div id="second-view">
+    <img loading="lazy" id="secondViewItem" src="images/second-header-1.gif">
+  </div> -->
+  <!-- Swiper START -->
+  <div id="secondViewItem" class="swiper-container">
+    <!-- メイン表示部分 -->
+    <div class="swiper-wrapper">
+      <!-- 各スライド -->
+      <img class="swiper-slide" src="images/second-header-1.gif" alt="">
+      <img class="swiper-slide" src="images/second-header-2.gif" alt="">
+      <a class="swiper-slide" href="layout/guest.html">
+        <img src="images/second-header-3.gif" alt="">
+      </a>
+    </div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+  <!-- Swiper END -->
+
+  <!-- main -->
+  <main id="main">
+
+    <!-- sns -->
+    <div id="sns">
+      <div class="container">
+        <ul>
+          <li>
+            <a href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg">
+              <img src="images/youTube.jpg" alt="">
+            </a>
+            <a class="sns-text" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg">
+              <strong>YouTube</strong>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/jukusai_72">
+              <img src="images/twitter.jpg" alt="">
+            </a>
+            <a class="sns-text" href="https://twitter.com/jukusai_72">
+              <strong>Twitter</strong>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/72nd_jukusai/">
+              <img src="images/instagram.jpg" alt="">
+            </a>
+            <a class="sns-text" href="https://www.instagram.com/72nd_jukusai/">
+              <strong>Instagram</strong>
+            </a>
+          </li>
+          <li>
+            <a href="https://docs.google.com/forms/d/1D3wyqk7WIxsaBli8Iw8xoVQbkfr70qDmuLQFO-STx1Y/edit">
+              <img src="images/72-logo.jpg" alt="">
+            </a>
+            <a class="sns-text" href="https://docs.google.com/forms/d/1D3wyqk7WIxsaBli8Iw8xoVQbkfr70qDmuLQFO-STx1Y/edit">
+              <strong>Contact</strong>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- news -->
+    <div id="news">
+      <div class="container">
+        <div class="ttl-set">
+          <h2 class="ttl"><strong>News</strong></h2>
+          <h3 class="sub-ttl"><strong>お知らせ</strong></h3>
+        </div>
+        <ul class="news-box">
+
+      <li class="news-item"><a href="layout/classroom-exhibition.html">
+        <div class="date">2021.11/18</div>
+        <div class="tag notice-tag">情報解禁</div>
+        <p class="">展示企画ページを公開！</p>
+      </a></li>
+      <li class="news-item"><a href="layout/stage-event.html">
+        <div class="date">2021.11/17</div>
+        <div class="tag topic-tag">トピック</div>
+        <p class="">第72回新宿祭ステージ企画タイムスケジュールを公開！</p>
+      </a></li>
+      <!--<li class="news-item"><a href="layout/saturday-talk.html">
+        <div class="date">2021.11/15</div>
+        <div class="tag notice-tag">情報解禁</div>
+        <p class="">サタデートークのページを公開！</p>
+      </a></li>-->
+      <li class="news-item"><a href="layout/student-project-exhibition.html">
+        <div class="date">2021.11/15</div>
+        <div class="tag notice-tag">情報解禁</div>
+        <p class="">学生プロジェクト展示のページを公開！</p>
+      </a></li>
+      <li class="news-item"><a href="layout/ramen.html">
+        <div class="date">2021.11/14</div>
+        <div class="tag news-tag">お知らせ</div>
+        <p class="">オリジナルラーメン発売決定！</p>
+      </a></li>
+		<li class="news-item"><a href="https://youtu.be/8DR6bESJk9g">
+        <div class="date">2021.11/7</div>
+        <div class="tag media-tag">メディア</div>
+        <p class="">新宿祭CMが八王子駅前シティービジョンで公開開始！</p>
+      </a></li>
+			
+      <li class="news-item"><a href="layout/guest.html">
+        <div class="date">2021.11/1</div>
+        <div class="tag notice-tag">情報解禁</div>
+        <p class="">新宿祭の出演アーティスト解禁！</p>
+      </a></li>
+      <li class="news-item"><a id="crackerBox">
+        <div class="date">2021.10/28</div>
+        <div class="tag news-tag">お知らせ</div>
+        <p class="">Webサイトを大幅アップデートしました。</p>
+      </a></li>
+      <li class="news-item"><a href="layout/character.html">
+        <div class="date">2021.10/15</div>
+        <div class="tag topic-tag">トピック</div>
+        <p class="">新宿祭イメージキャラクター『こんじゅ』衣替え♪</p>
+      </a></li>
+      <li class="news-ite
+      m"><a href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg">
+        <div class="date">2021.10/4</div>
+        <div class="tag media-tag">メディア</div>
+        <p class="">公式YouTubeチャンネルを開設しました。</p>
+      </a></li>
+      <li class="news-item"><a href="layout/festival.html">
+        <div class="date">2021.4/1</div>
+        <div class="tag news-tag">お知らせ</div>
+        <p class="">新宿祭開催日決定！</p>
+      </a></li>
+        </ul>
+      </div>
+    </div>
+
+    <img id="cracker" class="cracker" src="images/iwai.gif" alt="">
+
+    <!-- contents -->
+    <div id="contents">
+      <div class="container">
+        <div class="ttl-set">
+          <h2 class="ttl"><strong>Contents</strong></h2>
+          <h3 class="sub-ttl"><strong>おすすめコンテンツ</strong></h3>
+        </div>
+        <ul class="items">
+          <li class="item">
+            <img src="images/topic01.gif" alt="">
+            <h4>オンラインコンテンツ</h4>
+            <p>
+              第73回新宿祭はオンラインでも!!<br>
+              公式YouTubeチャンネルで<br>
+              オリジナル動画が随時更新!<br>
+              チャンネル登録 & 通知登録がおすすめ!
+            </p>
+            <a href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg">Check!</a>
+          </li>
+          <li class="item">
+            <img src="images/topic03.gif" alt="">
+            <h4>ステージ企画</h4>
+            <p>
+              メインステージでは3日間にわたって<br>
+              たくさんの企画が盛りだくさん！<br>
+              途中参加も大歓迎！！！<br>
+              新宿祭を存分に楽しもう！
+            </p>
+            <a href="layout/stage-event.html">Check!</a>
+          </li>
+          <li class="item">
+            <img src="images/character.jpg" alt="">
+            <h4>マスコットキャラクター</h4>
+            <p>
+              「絵本」がテーマ<br>
+              〇八王子祭『ぽんはち』<br>
+              「和」がテーマ<br>
+              〇新宿祭『こんじゅ』
+            </p>
+            <a href="layout/character.html">Check!</a>
+          </li>
+          <li class="item">
+            <img src="images/topic05.gif" alt="">
+            <h4>展示企画</h4>
+            <p>
+              委員会・体育会クラブ・文化会クラブ<br>
+              学生プロジェクト・サークルなど<br>
+              たくさんの団体が教室展示を実施中！<br>
+              思考を凝らした展示を刮目せよ！
+            </p>
+            <a href="layout/classroom-exhibition.html">Check!</a>
+          </li>
+          <li class="item">
+            <img src="images/live.jpg" alt="">
+            <h4>アーティストライブ</h4>
+            <p>
+              キタニタツヤ<br>
+              <br>
+
+              有観客開催(※学内生のみ)：11月19日(金)<br>
+              オンライン開催(一般)：12月5日(日)<br><br>
+            </p>
+            <a href="layout/artist.html">Check!</a>
+          </li>
+          <!--
+          <li class="item">
+            <img src="images/geino.jpg" alt="">
+            <h4>お笑いライブ</h4>
+            <p>
+              ○コロコロチキチキペッパーズ<br>
+              ○5GAP<br>
+				○アイロンヘッド<br>
+				○空気階段<br>
+
+              開催日：11月21日(日)
+            </p>
+            <a href="layout/comedy-live.html">Check!</a>
+          </li>
+        -->
+        <!--
+          <li class="item">
+            <img src="images/seiyu.jpg" alt="">
+            <h4>声優トークショー</h4>
+            <p>
+              今をときめく人気声優の2人が登壇！<br>
+              こんなチャンスは2度とないかも！？<br>
+              ○小林裕介<br>
+              ○上村祐翔<br>
+              開催日：11月20日(土)
+            </p>
+            <a href="layout/seiyu.html">Check!</a>
+          </li>
+          --＞
+          <!--
+			<li class="item">
+            <img src="images/sub-page/saturday-talk.png" alt="">
+            <h4>サタデートーク</h4>
+            <p>
+              「ヒマラヤから砂漠へ、難民の土地へ<br>
+              ~登山家、写真家、母としての挑戦~」<br>
+              講師：小松由佳さん<br>
+              開催日：11月20日(土)
+            </p>
+            <a href="layout/saturday-talk.html">Check!</a>
+          </li>-->
+          <!--<li class="item">
+            <img src="images/sub-page/gakupro.jpg" alt="">
+              <h4>研究室紹介</h4>
+            <p>
+              工学院大学では、<br>
+              4学部全12学科がありそれぞれを<br>
+              専門とした研究室があります！<br>
+              研究室で取り組む学生達にインタビュー！<br>
+              学生達の活躍を是非ご覧ください！
+            </p>
+            <a href="layout/student-project-exhibition.html">Check!</a>
+          </li>-->
+          <li class="item">
+            <img src="images/posukon2022.gif" alt="">
+            <h4 style="font-size: 1.7rem; line-height: 4;">メインポスターデザインコンテスト</h4>
+            <p>
+              第73回新宿祭ポスターの<br>
+              デザインを学内生から募集しました！<br>
+              応募作品を全て公開！！<br>
+              詳細は下のボタンから↓
+            </p>
+            <a href="layout/ramen.html">Check!</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- アクセス -->
+    <div id="access" class="sub-set">
+      <div class="container">
+        <div class="ttl-set">
+          <h2 class="ttl"><strong>Access</strong></h2>
+          <h3 class="sub-ttl"><strong>アクセス</strong></h3>
+        </div>
+        <div class="access-box box-shadow">
+          <iframe class="access-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12961.805883534991!2d139.6956855!3d35.6905062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4799331255aa4c4a!2z5bel5a2m6Zmi5aSn5a2mIOaWsOWuv-OCreODo-ODs-ODkeOCuQ!5e0!3m2!1sja!2sjp!4v1633064596027!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          <div class="access-text">
+            <p>
+              工学院大学新宿キャンパス<br>
+              東京都新宿区西新宿1丁目24番2号<br>
+              <br>
+              JR「新宿駅」下車、西口より徒歩5分<br>
+              京王線、小田急線、地下鉄各線「新宿駅」下車、徒歩5分<br>
+              都営大江戸線「都庁前駅」下車、徒歩3分<br>
+              西武新宿線「西武新宿駅」下車、徒歩10分<br>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="banner" class="sub-set">
+      <div class="container">
+        <div class="ttl-set">
+          <h2 class="ttl"><strong>Banner</strong></h2>
+          <h3 class="sub-ttl"><strong>バナー</strong></h3>
+        </div>
+        <div class="banner-box">
+          <a href="https://www.ns.kogakuin.ac.jp/~wws5024/">
+            <img src="images/59-hatiouji.png" alt="">
+          </a>
+          <a href="https://www.kogakuin.ac.jp/">
+            <img src="images/kogakuin.png" alt="">
+          </a>
+          <!--
+          <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=_1LZAG6Z60qvC2fuzFbUz3WfUeXSnY5NlrC0ZnjnIF5UNU5WNzBaV0ZFMklNVzJZMjJRVUtaRFE1VC4u">
+            <img src="images/tyusen.jpg" alt="">
+          </a>
+        -->
+        </div>
+      </div>
+    </div>
+    <img class="end-image" src="images/72-contents-background.png" alt="">
+  </main>
+
+  <!-- footer -->
+  <footer id="footer">
+
+    <!-- footer-top -->
+    <div id="footer-top">
+      <ul class="page-links">
+        <div>
+
+        </div>
+        <li><a href="https://www.kogakuin.ac.jp/">工学院大学</a></li>
+        <li><a href="https://www.ns.kogakuin.ac.jp/~wws5024/">第59回八王子祭</a></li>
+        <li><a href="layout/access.html">アクセス</a></li>
+        <li><a href="layout/corona-notes.html">新型コロナウイルス感染症対策</a></li>
+        <li><a href="layout/festival.html">学園祭について</a></li>
+        <li><a href="https://docs.google.com/forms/d/1D3wyqk7WIxsaBli8Iw8xoVQbkfr70qDmuLQFO-STx1Y/edit">お問い合わせ</a></li>
+      </ul>
+      <hr>
+      <div class="footer-info">
+        <div class="footer-info-left">
+          <img src="images/72ndrogo_white.png" alt="">
+          <ul class="items">
+            <li class="item">工学院大学 学園祭実行委員会 新宿祭実行部</li>
+            <li class="item">Address:〒163-8677東京都新宿区西新宿1丁目24-2</li>
+            <li class="item">Tel:<a href="">03-3348-9638</a></li>
+            <li class="item">E-mail:<a href="">wws5011@ns.kogakuin.ac.jp</a></li>
+            <li class="item">G-mail:<a href="">shinjukusai72@gmail.com</a></li>
+          </ul>
+        </div>
+        <div class="footer-info-right">
+          <a class="youtube" href="https://www.youtube.com/channel/UCnpniRRt0FdUFXYxQ1n0yjg"></a>
+          <a class="twitter" href="https://twitter.com/jukusai_72"></a>
+          <a class="instagram" href="https://www.instagram.com/72nd_jukusai/"></a>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- footer-bottom -->
+    <div id="footer-bottom">
+      <p>©Kogakuin University 72nd Shinjuku Festival.</p>
+    </div>
+
+  </footer>
+  <script src="js/loading.js"></script>
+  <script src="js/top-view-delete.js"></script>
+  <!-- <script src="js/countdown.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/js/swiper.min.js"></script>
+  <script src="js/second-view.js"></script>
+  <script src="js/header.js"></script>
+  <script src="js/cracker.js"></script>
+</body>
+
+</html>

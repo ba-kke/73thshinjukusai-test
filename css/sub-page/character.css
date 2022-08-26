@@ -1,0 +1,19 @@
+.characters h2 {
+  font-weight: bold;
+}
+
+
+.sub-set-item .character-contents {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.character-contents img {
+  width: 50%;
+}
+
+.character-introduction {
+  width: 45%;
+  text-align: left;
+}

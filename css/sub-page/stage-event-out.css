@@ -1,0 +1,82 @@
+.stage-container {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.stage-container li {
+  list-style: none;
+}
+
+.day-box{
+  width: 30%;
+}
+
+/* stageadd */
+/* .stageadd-wrapper {
+  margin: 3.1rem 2rem 2.7rem;
+} */
+
+.stageadd {
+  display: none;
+  position: fixed;
+  width: 65rem;
+  height: 60rem;
+  padding: 5rem;
+  padding: 4rem 2rem;
+  background-color: white;
+  color: black;
+  top: 45vh;
+  left: 45vw;
+  top: calc(50% - 30rem);
+  left: calc(50% - 32.5rem);
+}
+
+.stageadd.add-display-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.stageadd p {
+  color: black;
+  text-align: left;
+}
+
+.stageadd button {
+  width: 80%;
+  line-height: 2.5;
+  border-radius: 5px;
+  background: orange;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+@media screen and (max-width: 1100px) {
+  .stage-container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .stage-container {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .day-box{
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .stageadd {
+    width: 90%;
+    left: 5%;
+  }
+}

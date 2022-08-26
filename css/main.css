@@ -1,0 +1,33 @@
+main {
+  /* background: linear-gradient(#ffd50f 7rem, #ffbb0f, #ffa40f 60%); */
+  /* background: linear-gradient(white 7rem, #ffd50f, #ffbb0f 60%); */
+  background-image: url(../images/sub-page/background-layout2022.jpg);
+  background-repeat: repeat-y;
+  background-size: 100%;
+  top: -3px;
+}
+
+main .container {
+  text-align: center;
+}
+
+main .ttl-set {
+  margin: 5rem 0 2rem;
+}
+
+main .ttl {
+  font-size: 5rem;
+  margin-bottom: 1rem;
+  /* text-shadow: 0.5rem 0.5rem 0.3rem rgba(51, 51, 51, 0.501); */
+  text-shadow: 0.5rem 0.5rem 0.2rem rgba(51, 51, 51, 0.255);
+}
+
+main .sub-ttl {
+  font-size: 2rem;
+  /* text-shadow: 0.5rem 0.5rem 0.3rem rgba(51, 51, 51, 0.501); */
+  text-shadow: 0.5rem 0.5rem 0.3rem rgba(51, 51, 51, 0.255);
+}
+
+.box-shadow {
+  box-shadow: 0.5rem 0.5rem 1.5rem rgba(51, 51, 51, 0.501);
+}

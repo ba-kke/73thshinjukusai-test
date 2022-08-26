@@ -1,0 +1,234 @@
+main {
+  padding: 5rem 0;
+  background-image: url(../../images/sub-page/background-layout.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
+  margin-top: -1rem;
+}
+
+.sub-contents .container {
+  background: #333;
+  padding: 6rem;
+  border-radius: 20px;
+}
+
+.sub-contents .sub-set {
+  text-align: left;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.sub-contents h2 {
+  background-image: url(../../images/sub-page/batsu.jpg);
+  background-color: white;
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+  color: #333;
+  font-size: 2rem;
+  width: 100%;
+  line-height: 2;
+  padding-left: 2em;
+  margin: 4rem 0 3rem;
+  font-weight: bold;
+}
+
+.sub-contents p {
+  font-size: 1.8rem;
+  line-height: 1.7;
+  color: white;
+}
+
+.sub-contents p .fa-circle {
+  margin-right: 0.5rem;
+}
+
+.sub-contents p .emphasis {
+  font-size: 2rem;
+}
+
+.sub-contents img {
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.whatwg {
+  font-size: 0.9em;
+}
+
+.sub-contents a {
+  text-decoration: underline;
+}
+
+.sub-contents a:hover {
+  color: skyblue;
+}
+
+.sub-set-item {
+  width: 97%;
+  margin: 2rem 0 0 auto;
+}
+
+.sub-set-item h3 {
+  width: 100%;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem;
+  border-left: 5px solid orange;
+  border-bottom: 1px solid white;
+  margin: 2rem 0;
+}
+
+/* 開催日時・開催場所 */
+.sub-set-item-hold {
+  font-size: 2.5rem;
+}
+
+.sub-set-item-hold div {
+  background: white;
+  margin-bottom: 2rem;
+  padding: 2rem;
+}
+
+.sub-set-item-hold p {
+  color: black;
+}
+
+.sub-set-item-hold h4 {
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.sub-set-item-hold-off {
+  border: 4px solid aqua;
+}
+
+.sub-set-item-hold-on {
+  border: 4px solid red;
+}
+
+/* q-a */
+.q-a {
+  margin-bottom: 1rem;
+}
+
+.a, .q {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+.q-a-ttl {
+  display: inline-block;
+  font-size: 1.6rem;
+  margin-right: 2rem;
+  padding: 0.5rem 0.6rem;
+  font-weight: bold;
+}
+.q-ttl {
+  color: orange;
+  background: white;
+  border: 2px solid orange;
+}
+.a-ttl {
+  color: white;
+  background: orange;
+  border: 2px solid white;
+}
+.q-a-text {
+  display: inline;
+}
+
+/* g-text-box */
+.img-text-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img-text-box .inner-img {
+  width: 40%;
+}
+.img-text-box .inner-text {
+  width: 50%;
+  margin: 0 auto;
+}
+
+/* two-box */
+.two-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+/* img-text */
+.img-text img {
+  height: 20rem;
+}
+
+/* center-img */
+#gakupro .inner-left-img, #classroomExhibition .inner-left-img, #classroomExhibition .inner-left-img {
+  display: block;
+  width: auto;
+  height: 20rem;
+  margin: 1rem 0;
+}
+
+/* back-btn */
+.back-btns {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+}
+.home-btn img {
+  margin: 0 1rem 0 0;
+  width: 5rem;
+  height: 4rem;
+  vertical-align: top;
+}
+.back-btns a {
+  display: flex;
+  align-items: center;
+  background: orange;
+  color: white;
+  padding: 3rem 3rem;
+  /* line-height: 3; */
+  text-decoration: none;
+  font-size: 2rem;
+  margin: 2rem;
+  height: 4rem;
+  font-weight: bold;
+}
+.back-btns a:hover {
+  color: white;
+}
+#main .warning {
+  color: red;
+  font-weight: bold;
+}
+
+.reserve {
+  font-size: 2.5rem;
+}
+
+@media screen and (max-width: 960px) {
+  .sub-contents .sub-set {
+    width: 93%;
+  }
+  .sub-contents .container {
+    padding: 4rem 0;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .sub-contents .sub-set {
+    width: 95%;
+  }
+  .sub-contents .container {
+    padding: 2rem 0;
+  }
+}

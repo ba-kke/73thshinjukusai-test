@@ -1,0 +1,169 @@
+body {
+  margin-top: 7rem;
+}
+/* #topView {
+  margin-top: 7rem;
+} */
+
+.delete {
+  display: none;
+}
+
+/* #topView .top-container {
+  position: relative;
+}
+
+#topView .video-bg {
+  overflow: hidden;
+}
+.video-bg::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .3);
+} */
+#topView video {
+  width: 100%;
+  height: calc(100vh - 7rem);
+  object-fit: cover;
+}
+
+/* #topView .video-bg iframe {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+} */
+
+#topView .countdown {
+  position: absolute;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  color: white;
+  /* animation: fadeIn 0.5s linear;
+  animation-delay: 6s; */
+  animation-fill-mode: both;
+}
+/* ---------------------------- */
+/* --- Animation --- */
+/* ---------------------------- */
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+#topView .countdown h2{
+  font-size: 5rem;
+}
+
+#topView .countdown h3 {
+  font-size:7rem;
+}
+
+#topView .countdown .made {
+  font-size: 5rem;
+}
+
+#topView ul {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+#topView li {
+  list-style: none;
+}
+
+#topView .date {
+  line-height: 1;
+  background-color: rgba(0, 0, 0, 0.371);
+  font-family:'Raleway','Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', 'メイリオ', Meiryo, sans-serif;
+  font-weight: bold;
+}
+
+.date-set .date {
+  width: 23rem;
+  margin: 0.5rem;
+  font-size: 25rem;
+  padding-top: 0.5rem;
+  border-radius: 0.6rem;
+}
+
+.date-set .count-blue {
+  border-bottom: 1rem solid rgba(62, 73, 171, 0.7);
+}
+.date-set .count-yellow {
+  border-bottom: 1rem solid rgba(255, 192, 33, 0.7);
+}
+
+.date-set .date-unit {
+  font-size: 7rem;
+  width: 3rem;
+}
+
+.time-set .date {
+  margin: 0.1rem;
+  font-size: 7.2rem;
+  padding: 0.3rem 0.9rem;
+  border-radius: 0.6rem;
+}
+
+.time-set .date-unit {
+  font-size: 3rem;
+  margin: 0 0.2rem;
+}
+
+.banner-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.banner-box img {
+  height: 9rem;
+}
+.banner-box a {
+  margin: 2rem;
+}
+
+@media screen and (max-width: 960px) {
+  
+}
+
+@media screen and (max-width: 520px) {
+  #topView .countdown h2{
+    font-size: 4rem;
+  }
+
+  #topView .countdown h3 {
+    font-size:5.6rem;
+  }
+
+  #topView .countdown .made {
+    font-size: 4rem;
+  }
+  .date-set .date {
+    width: 19rem;
+    font-size: 20rem;
+  }
+  .date-set .date-unit {
+    font-size: 5.6rem;
+  }
+
+  .time-set .date {
+    font-size: 5.7rem;
+  }
+
+  .time-set .date-unit {
+    font-size: 2.4rem;
+  }
+}

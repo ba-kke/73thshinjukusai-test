@@ -1,0 +1,126 @@
+/* footer-top */
+#footer-top {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background: #333;
+  color: white;
+}
+
+/* page-links */
+.page-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  margin: 1.5rem 0;
+}
+
+.page-links li {
+  font-size: 1.3rem;
+  border-right: 2px solid white;
+  padding: 0 3rem;
+  line-height: 1.3;
+}
+
+.page-links li:last-of-type {
+  border-right: none;
+}
+
+/* footer-hr */
+#footer-top hr {
+  width: 90%;
+  border-top: 3px solid white;
+}
+
+/* footer-info */
+#footer-top .footer-info {
+  width: calc(100% - 2rem);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 2rem;
+}
+
+#footer-top .footer-info-left {
+  display: flex;
+  justify-content: start;
+}
+
+#footer-top .footer-info-left img {
+  width: 15rem;
+  margin: 0 2rem;
+  object-fit: contain;
+}
+
+#footer-top .footer-info-left li {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+
+#footer-top .footer-info-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin: 0 2rem;
+}
+
+#footer-top .footer-info-right a {
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  border: 3px solid white;
+  border-radius: 50%;
+  background-size: cover;
+  margin: 0 1rem;
+  padding: 2rem;
+}
+#footer-top .footer-info-right .youtube {
+  background-image: url(../images/youtube_white.png);
+}
+#footer-top .footer-info-right .twitter {
+  background-image: url(../images/twitter_white.png);
+}
+#footer-top .footer-info-right .instagram {
+  background-image: url(../images/instagram_white.png);
+}
+#footer-top .footer-info-right .youtube:hover {
+  background-image: url(../images/youTube.jpg);
+}
+#footer-top .footer-info-right .twitter:hover {
+  background-image: url(../images/twitter.jpg);
+}
+#footer-top .footer-info-right .instagram:hover {
+  background-image: url(../images/instagram.jpg);
+}
+
+@media screen and (max-width: 960px) {
+  .container {
+    width: 90%;
+  }
+  .page-links {
+    display: none;
+  }
+
+  #footer-top hr {
+    display: none;
+  }
+
+  #footer-top .footer-info {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  #footer-top .footer-info-right {
+    margin: 1rem 2rem;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .container {
+    width: 95%;
+  }
+}

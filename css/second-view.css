@@ -1,0 +1,31 @@
+#secondViewItem {
+  /* z-index: -1; */
+  position: relative;
+  top: -4px;
+}
+
+/* 全体のスタイル */
+.swiper-wrapper {
+	width: 100vw;
+}
+/* 全スライド共通スタイル */
+.swiper-slide img {
+  display: block;
+	width: 100vw;
+}
+
+.swiper-button-next {
+  color: white;
+}
+/* 4の倍数＋1枚目のスライドのスタイル（1枚目、5枚目…） */
+/* .swiper-slide:nth-child(4n+1) {
+	background-image: url(../images/second-header-1.gif);
+} */
+/* 4の倍数＋2枚目のスライドのスタイル（2枚目、6枚目…） */
+/* .swiper-slide:nth-child(4n+2) {
+	background-image: url(../images/second-header-3.gif);
+} */
+/* 4の倍数＋3枚目のスライドのスタイル（3枚目、7枚目…） */
+/* .swiper-slide:nth-child(4n+3) {
+	background-image: url(../images/second-header-3.gif);
+} */

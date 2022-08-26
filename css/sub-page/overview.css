@@ -1,0 +1,67 @@
+.overview .overview-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: #eee;
+  margin-bottom: 2rem;
+  text-decoration: none;
+}
+.overview .overview-box:hover {
+  color: black;
+}
+
+.overview img {
+  margin-top: 0;
+  width: 45%;
+  object-fit: cover;
+  height: 55rem;
+  background: white;
+}
+
+.overview .overview-text {
+  width: 55%;
+  text-align: center;
+  padding: 2rem;
+  /* align-self: stretch;
+  align-items: center; */
+}
+.overview .overview-text h3,.overview .overview-text p {
+  color: #333;
+}
+
+.overview .overview-box h3 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.overview .overview-box h4 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.overview .overview-box p {
+  display: inline-block;
+  text-align: left;
+  margin: 0 auto;
+  font-size: 1.4rem;
+}
+
+@media screen and (max-width: 1100px) {
+  .overview .overview-box {
+    flex-direction: column;
+  }
+  .overview .overview-text {
+    width: 100%;
+  }
+  .overview img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .overview .overview-text {
+    width: 90%;
+  }
+}

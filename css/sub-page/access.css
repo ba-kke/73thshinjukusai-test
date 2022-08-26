@@ -1,0 +1,59 @@
+#access .access-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: #eee;
+  align-items: center;
+}
+
+#access .access-map {
+  width: 45%;
+  height: 45rem;
+}
+
+#access .access-text {
+  width: 55%;
+  text-align: center;
+  padding: 2rem;
+}
+#access .access-text h3,#access .access-text p {
+  color: #333;
+}
+
+#access .access-box h3 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  border-bottom: none;
+  border-left: none;
+  margin: 0;
+  padding: 0;
+}
+
+#access .access-box p {
+  display: inline-block;
+  text-align: left;
+  margin: 0 auto;
+  font-size: 1.4rem;
+}
+
+@media screen and (max-width: 960px) {
+  #access .access-box {
+    flex-direction: column;
+  }
+  #access .access-text {
+    width: 90%;
+  }
+  #access img {
+    padding: 2rem 0;
+  }
+
+  #access .access-map {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  #overview .overview-text {
+    width: 90%;
+  }
+}

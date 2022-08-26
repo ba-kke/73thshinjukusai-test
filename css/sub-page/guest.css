@@ -1,0 +1,26 @@
+#guest .overview .overview-box, #comedy-live .overview .overview-box, #talk-show .overview .overview-box, #gakupro .overview-box, #classroomExhibition .overview-box {
+  justify-content: left;
+}
+
+#guest .overview img, #talk-show .overview img,#comedy-live .overview img, #gakupro .overview img , #saturdayTalk .overview img, #classroomExhibition .overview img, #ramen .overview img, #classroomExhibition .overview img {
+  margin-top: 0;
+  width: 40rem;
+  object-fit: cover;
+  height: 40rem;
+  background: white;
+}
+
+#guest a, #talk-show a,#comedy-live a, #gakupro a, #ramen a {
+  text-decoration: none;
+}
+
+.overview .overview-text {
+  width: auto;
+  margin: 0 auto;
+}
+
+.ramen-mov {
+  width: 55rem;
+  max-width: 100%;
+  height: 31rem;
+}
